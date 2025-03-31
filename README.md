@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Tanmay Singh Currently working towards making best of me as a Full stack developer.<br>Also a Tech Enthusiast | Innovator | Lifelong Learner and Passionate about exploring the ever-evolving landscape of technology.
-
+I'm Tanmay Singh Currently working towards making best of me as a Full stack developer.<br>Also a Free Lancer | Tech Enthusiast | Innovator | Lifelong Learner and Passionate about exploring the ever-evolving landscape of technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmax_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-singhh) 
