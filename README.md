@@ -25,3 +25,5 @@ I'm Tanmay Singh Currently working towards making best of me as a Full stack dev
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=shadow_green&no-frame=true&no-bg=false&margin-w=4)
 
+
+<p><img height="300" align="right" src="cat-vibe.gif" alt="asthemus" /></p>
