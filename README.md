@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript**, **Python**, **React**, and **APIs**.<br>
 - 🤝 I’m looking for help with Django & MERN<br>
 - 🎮 In my free time, I enjoy gaming and experimenting with new frameworks.<br>
- - 📝 Checkout my [Portfolio]([https://tanmay-portfolio-flax.vercel.app/])<br>
+ - 📝 Check out my [Portfolio](https://tanmay-portfolio-flax.vercel.app/)<br>
 -⚡ Fun fact Programmer by day, Zealous gamer by night.
 ---
 
