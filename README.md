@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbitujames&label=Profile%20views&color=0eb64f&style=plastic" alt="TANMAY SINGH" /> </p>
 
-# 💫 About Me:
+# 💫 About Me: <br>
 - 😄 Pronouns: **He/Him**<br>
 
 - 🔭 Currently working on **web applications** and **machine learning models**.<br>
