@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=FC466B&text=Tanmay%20Kumar%20Singh&reversal=true&textBg=false&fontColor=8664BD&fontAlign=28&animation=blinking&fontSize=35&fontAlignY=50&strokeWidth=0.5&stroke=6B39BD%20&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=FC466B&text=Tanmay%20Kumar%20Singh&reversal=true&textBg=false&fontAlign=28&animation=blinking&fontSize=35&fontAlignY=50&strokeWidth=0.5&stroke=6B39BD%20&section=header">
 
 <p align="center">
   <img height="300" src="spongebob-work.gif" alt="Cat" />
