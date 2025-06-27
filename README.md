@@ -2,7 +2,7 @@
   <img height="300" src="spongebob-work.gif" alt="Cat" />
 </p>
 
-<h1 align="center">Hello 👋, I'm TANMAY KUMAR SINGH</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=FC466B&text=Tanmay%20Kumar%20Singh&reversal=true&textBg=false&fontColor=8664BD&fontAlign=28&animation=blinking&fontSize=35&fontAlignY=50&strokeWidth=0.5&stroke=6B39BD%20&section=header">
 <h3 align="center">💻 Software Developer | ML & DL Developer from INDIA <img src="https://flagcdn.com/w40/in.png" width="20" alt="India flag"/> </h3>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
@@ -16,6 +16,10 @@
 - 🌱 Constantly learning and exploring **AI**, **cloud computing**, **DevOps tools** and **CyberSecurity**.<br><br>
 - 👯 I’m looking to collaborate on Flutter & Open Source Projects.<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+## 🌐 Connect & Build with me
 
 <ul style="list-style: none; padding-left: 0;">
   <li>
@@ -80,3 +84,4 @@
 <p align="center">
   <img height="300" src="cat-vibe.gif" alt="Cat" />
 </p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FC466B&text=”Code%20is%20read%20much%20more%20often%20than%20it%20is%20written.”&reversal=true&textBg=false&fontAlign=41&animation=fadeIn&fontSize=26&fontAlignY=73&strokeWidth=0.5&stroke=22C1C3&section=footer">
