@@ -50,40 +50,36 @@ I'm Tanmay Singh Currently working towards making best of me as a Full stack dev
 <div align="center">
 
 ### 💻 **Programming Languages & Frameworks**
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,flask" />
 </p>
-
 ### 🎨 **Frontend & Design Technologies**
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,figma,photoshop" />
 </p>
-
 ### 🗄️ **Backend & Database Systems**
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
-
 ### ☁️ **Cloud & DevOps (Learning)**
-
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
-
 ### 🛡️ **Security & Development Tools**
-
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,vim,postman,vercel" />
 </p>
-
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=shadow_green&no-frame=true&no-bg=false&margin-w=4)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 <p align="center">
