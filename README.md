@@ -57,27 +57,38 @@
 <div align="center">
 
 ### 💻 **Programming Languages & Frameworks**
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,flask" />
 </p>
+
 ### 🎨 **Frontend & Design Technologies**
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,figma,photoshop" />
 </p>
+
 ### 🗄️ **Backend & Database Systems**
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
+
 ### ☁️ **Cloud & DevOps (Learning)**
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
+
 ### 🛡️ **Security & Development Tools**
+
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,vim,postman,vercel" />
 </p>
+
 </div>
+
 
 ## 🏆 Achievement Gallery
 ![](https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=shadow_green&no-frame=true&no-bg=false&margin-w=4)
