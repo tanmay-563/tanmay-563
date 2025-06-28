@@ -91,7 +91,9 @@
 
 
 ## 🏆 Achievement Gallery
+
 ![](https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=shadow_green&no-frame=true&no-bg=false&margin-w=4)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img height="300" src="cat-vibe.gif" alt="Cat" />
