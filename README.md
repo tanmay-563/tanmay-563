@@ -90,9 +90,29 @@
 </div>
 
 
+### 📈 Detailed Contribution Metrics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-563&custom_title=📊%Tanmay's%20Contribution%20Graph&bg_color=0D1117&color=03DAC6&line=BB86FC&point=FFFFFF&area_color=BB86FC&area=true&hide_border=true&height=300" width="100%"/>
+
+</div>
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
+</picture>
+
+![ocean snake](https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/ocean.gif)
+
+
+
 ## 🏆 Achievement Gallery
 
-![](https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=shadow_green&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
