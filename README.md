@@ -104,7 +104,6 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
 </picture>
 
-![ocean snake](https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/ocean.gif)
 
 
 
