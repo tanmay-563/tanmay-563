@@ -110,15 +110,6 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
 </picture>
 
-
-
-
-## 🏆 Achievement Gallery
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanmay-563&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img height="300" src="cat-vibe.gif" alt="Cat" />
